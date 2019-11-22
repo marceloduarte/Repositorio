@@ -1,6 +1,6 @@
 public class Produto
 {
-    public Produto(int Id, string Descricao)
+    public Produto(int Id, string Descricao, string Categoria)
     {
         this.id = Id;
         this.descricao = Descricao;
