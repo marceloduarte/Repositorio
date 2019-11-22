@@ -7,6 +7,6 @@ public class Produto
     }
        private int Id { get; private set; }
        private string Descricao { get; private set; }
-    
+       private string Categoria {get : private set;} 
 
 }
