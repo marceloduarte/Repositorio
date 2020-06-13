@@ -23,14 +23,14 @@ namespace MetodosExtensao
             bool resultado = numero.EMaiorQue(21);
             Console.WriteLine($"O numero {numero} é maior que 21 ? " + resultado);
 
-
+/*
             Console.WriteLine("Quantidade = 4, Preço =  1000,  Desconto = 50");
             CalculaPreco valor = new CalculaPreco();
             int precoSemDesconto = valor.PrecoTotal(4, 1000);
             int precoComDesconto = valor.PrecoFinalComDesconto(4, 1000, 50);
             Console.WriteLine($"Preço sem desconto       : {precoSemDesconto}");
             Console.WriteLine($"Preco com desconto de 50 : {precoComDesconto}");
-
+*/
  //generic list
         List<int> ListGeneric = new List<int> { 5, 9, 1, 4 };
         //non-generic list
