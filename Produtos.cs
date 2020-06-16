@@ -4,6 +4,7 @@ public class Produto
     {
         this.id = Id;
         this.code = "";
+        this.valor = 0
         this.descricao = Descricao;
         this.Categoria = Categoria;
                 
@@ -14,6 +15,8 @@ public class Produto
        private string Descricao { get; private set; }
        private string Categoria {get ; private set;} 
        private string CodigoOriginal {get ; private set;} 
+
+     public decimal valor { get; private set; }
 
 
 }
