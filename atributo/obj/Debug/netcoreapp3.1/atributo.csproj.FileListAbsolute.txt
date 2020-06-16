@@ -1,0 +1,13 @@
+D:\Testes\treinamento\Repositorio\atributo\bin\Debug\netcoreapp3.1\atributo.exe
+D:\Testes\treinamento\Repositorio\atributo\bin\Debug\netcoreapp3.1\atributo.deps.json
+D:\Testes\treinamento\Repositorio\atributo\bin\Debug\netcoreapp3.1\atributo.runtimeconfig.json
+D:\Testes\treinamento\Repositorio\atributo\bin\Debug\netcoreapp3.1\atributo.runtimeconfig.dev.json
+D:\Testes\treinamento\Repositorio\atributo\bin\Debug\netcoreapp3.1\atributo.dll
+D:\Testes\treinamento\Repositorio\atributo\bin\Debug\netcoreapp3.1\atributo.pdb
+D:\Testes\treinamento\Repositorio\atributo\obj\Debug\netcoreapp3.1\atributo.csprojAssemblyReference.cache
+D:\Testes\treinamento\Repositorio\atributo\obj\Debug\netcoreapp3.1\atributo.AssemblyInfoInputs.cache
+D:\Testes\treinamento\Repositorio\atributo\obj\Debug\netcoreapp3.1\atributo.AssemblyInfo.cs
+D:\Testes\treinamento\Repositorio\atributo\obj\Debug\netcoreapp3.1\atributo.csproj.CoreCompileInputs.cache
+D:\Testes\treinamento\Repositorio\atributo\obj\Debug\netcoreapp3.1\atributo.dll
+D:\Testes\treinamento\Repositorio\atributo\obj\Debug\netcoreapp3.1\atributo.pdb
+D:\Testes\treinamento\Repositorio\atributo\obj\Debug\netcoreapp3.1\atributo.genruntimeconfig.cache
